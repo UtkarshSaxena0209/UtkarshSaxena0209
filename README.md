@@ -15,20 +15,15 @@ Transportation Planning, Traffic Engineering, GIS and Infrastructure.
 - Intern – Prakash Asphaltings & Toll Highways
 
 ## 🛠️ Skills
+- Civil 3D
+- QGIS
 - AutoCAD
 - STAAD.Pro
 - Revit
-- QGIS
-- Transportation Planning
-- Traffic Engineering
-- Data Analysis
 
 ## 🚦 Projects
 - Rajwada–Sarafa Transportation Planning Study
-- Traffic Data Analysis
-- Road Network & Accessibility Analysis
-- Pavement/Transportation Engineering Projects
 
 ## 📫 Contact
-LinkedIn: [Your LinkedIn Profile]
-Email: your-email@example.com
+LinkedIn: https://www.linkedin.com/in/utkarsh-saxena-4bb495283?utm_source=share_via&utm_content=profile&utm_medium=member_android
+Email: utkarshsaxena0209@gmail.com
