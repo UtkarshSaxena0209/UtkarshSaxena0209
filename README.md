@@ -10,6 +10,7 @@ Transportation Planning, Traffic Engineering, GIS and Infrastructure.
 - B.Tech – Civil Engineering, SGSITS Indore
 
 ## Experience
+- Teaching Assistant - IIT Indore
 - Graduate Engineer Trainee – KPIL
 - Intern – MPMRCL, Indore Metro Project
 - Intern – Prakash Asphaltings & Toll Highways
