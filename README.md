@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Utkarsh 👋
 
-<!--
-**UtkarshSaxena0209/UtkarshSaxena0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### M.Tech Transportation Systems Engineering | IIT Indore
 
-Here are some ideas to get you started:
+Civil Engineer interested in Transportation Engineering, 
+Transportation Planning, Traffic Engineering, GIS and Infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- M.Tech – Transportation Systems Engineering, IIT Indore
+- B.Tech – Civil Engineering, SGSITS Indore
+
+## 💼 Experience
+- Graduate Engineer Trainee – KPIL
+- Intern – MPMRCL, Indore Metro Project
+- Intern – Prakash Asphaltings & Toll Highways
+
+## 🛠️ Skills
+- AutoCAD
+- STAAD.Pro
+- Revit
+- QGIS
+- Transportation Planning
+- Traffic Engineering
+- Data Analysis
+
+## 🚦 Projects
+- Rajwada–Sarafa Transportation Planning Study
+- Traffic Data Analysis
+- Road Network & Accessibility Analysis
+- Pavement/Transportation Engineering Projects
+
+## 📫 Contact
+LinkedIn: [Your LinkedIn Profile]
+Email: your-email@example.com
