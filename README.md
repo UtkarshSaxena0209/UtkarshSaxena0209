@@ -20,6 +20,9 @@ Transportation Planning, Traffic Engineering, GIS and Infrastructure.
 - AutoCAD
 - STAAD.Pro
 - Revit
+- MS excel
+- MS Powerpoint 
+- MS Word
 
 ## Projects
 - Rajwada–Sarafa Transportation Planning Study
